@@ -1,7 +1,3 @@
-# Downloading a Project from GitHub
-
-
-
 ## Step 1: Clone the Repository
 
 To download the project to your local machine, you need to clone the repository.
